@@ -192,7 +192,7 @@ import uk.ac.manchester.cs.owlapi.modularity.ModuleType;
  * methods.
  */
 public class FaCTPlusPlusReasoner implements OWLReasoner,
-        OWLOntologyChangeListener, OWLKnowledgeExplorerReasoner {
+        OWLOntologyChangeListener {
 
     /**
      * reasoner name
